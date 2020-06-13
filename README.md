@@ -1,9 +1,5 @@
 # Twitter Scraper
 
-![GitHub](https://img.shields.io/github/license/bisguzar/twitter-scraper) ![GitHub contributors](https://img.shields.io/github/contributors/bisguzar/twitter-scraper) ![code size](https://img.shields.io/github/languages/code-size/bisguzar/twitter-scraper) ![maintain status](https://img.shields.io/maintenance/yes/2020)
-
-[🇰🇷 Read Korean Version](https://github.com/bisguzar/twitter-scraper/blob/master/twitter_scraper/__init__.py)
-
 Twitter's API is annoying to work with, and has lots of limitations — luckily their frontend (JavaScript) has it's own API, which I reverse–engineered. No API rate limits. No restrictions. Extremely fast.
 
 You can use this library to get the text of any user's Tweets trivially.
@@ -129,21 +125,3 @@ To contribute to twitter-scraper, follow these steps:
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* @kennethreitz (author)
-* @bisguzar (maintainer)
-* @lionking6792
-* @ozanbayram
-
-
-
-## Contact
-If you want to contact me you can reach me at [@bugraisguzar](https://twitter.com/bugraisguzar).
-
-
-## License
-This project uses the following license: [MIT](https://github.com/bisguzar/twitter-scraper/blob/master/LICENSE).
